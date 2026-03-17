@@ -98,8 +98,4 @@ npm run format
 npm run build
 ```
 
----
 
-## License
-
-This project is for educational and demonstration purposes only. Not for commercial use.
